@@ -69,7 +69,7 @@
     <dependency>
       <groupId>no.jonasandersen.admin</groupId>
       <artifactId>api-contract</artifactId>
-      <version>0.0.47</version>
+      <version>0.0.54</version>
     </dependency>
 
     <dependency>
